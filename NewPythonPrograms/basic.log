@@ -1,0 +1,36 @@
+2025-10-05 14:03:37 DEBUG this is a debug
+2025-10-05 14:03:37 DEBUG this is a config
+2025-10-05 14:03:37 CRITICAL this is critical
+2025-10-05 14:03:37 ERROR this is an error
+2025-10-05 14:04:18 DEBUG this is a debug
+2025-10-05 14:04:18 DEBUG this is a config
+2025-10-05 14:04:18 CRITICAL this is critical
+2025-10-05 14:04:18 ERROR this is an error
+2025-10-05 14:05:34 DEBUG this is a debug
+2025-10-05 14:05:34 DEBUG this is a config
+2025-10-05 14:05:34 CRITICAL this is critical
+2025-10-05 14:05:34 ERROR this is an error
+2025-10-05 14:05:54 DEBUG this is a debug
+2025-10-05 14:05:54 DEBUG this is a config
+2025-10-05 14:05:54 CRITICAL this is critical
+2025-10-05 14:05:54 ERROR this is an error
+2025-10-05 14:07:44 CRITICAL this is critical
+2025-10-05 14:07:44 ERROR this is an error
+2025-10-05 14:08:37 DEBUG this is a debug
+2025-10-05 14:08:37 DEBUG this is a config
+2025-10-05 14:08:37 CRITICAL this is critical
+2025-10-05 14:08:37 ERROR this is an error
+2025-10-05 14:09:24 DEBUG this is a debug
+2025-10-05 14:09:24 DEBUG this is a config
+2025-10-05 14:09:24 CRITICAL this is critical
+2025-10-05 14:09:24 ERROR this is an error
+2025-10-05 14:09:40 DEBUG this is a debug
+2025-10-05 14:09:40 DEBUG this is a config
+2025-10-05 14:09:40 CRITICAL this is critical
+2025-10-05 14:09:40 ERROR this is an error
+2025-10-05 14:09:40 INFO the answer is3
+2025-10-05 14:10:15 DEBUG this is a debug
+2025-10-05 14:10:15 DEBUG this is a config
+2025-10-05 14:10:15 CRITICAL this is critical
+2025-10-05 14:10:15 ERROR this is an error
+2025-10-05 14:10:15 INFO the answer is 3

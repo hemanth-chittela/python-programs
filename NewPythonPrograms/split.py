@@ -1,0 +1,6 @@
+Number=input("Enter the numbers: ")
+a,b,c=Number.split()
+a=int(a)
+b=int(b)
+c=int(c)
+print(a+c)

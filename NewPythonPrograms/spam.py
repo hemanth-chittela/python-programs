@@ -1,0 +1,33 @@
+import pyautogui
+import time
+#text=str(input("Enter the string: "))
+time.sleep(5)
+for i,j in enumerate(range(10)):
+    Name=pyautogui.locateOnScreen("C:/Users/pc/Desktop/Name.PNG",confidence=0.7)
+    pyautogui.click(Name)
+    pyautogui.typewrite(f"tester{i}")
+    Email=pyautogui.locateOnScreen("C:/Users/pc/Desktop/Email.PNG",confidence=0.7)
+    pyautogui.click(Email)
+    pyautogui.typewrite(f"{i}emma@hotmail.com")
+    #pyautogui.typewrite(text)
+    time.sleep(3)
+    AddUser=pyautogui.locateOnScreen("C:/Users/pc/Desktop/Add_User.PNG",confidence=0.7)
+    pyautogui.click(AddUser)
+    pyautogui.click(AddUser)
+    time.sleep(5)
+    #--------------------------------------------------------------------------------
+    #Message=pyautogui.locateOnScreen("C:/Users/pc/Desktop/Message.PNG",confidence=0.7)
+    #position1=pyautogui.click(Message)
+    #first_position=pyautogui.position(position1)
+    #print(first_position)
+    #pyautogui.typewrite(f"new_{i}")
+    #Send=pyautogui.locateOnScreen("C:/Users/pc/Desktop/Enter.PNG",confidence=0.9)
+    #Send1=pyautogui.click(Send)
+    #p=pyautogui.position(Send1)
+    #print(p)
+
+    #time.sleep(10)
+    #p=pyautogui.position()
+    #print(p)
+    #pyautogui.press("enter")
+#print("number of messages sent =",j)

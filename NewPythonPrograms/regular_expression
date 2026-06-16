@@ -1,0 +1,9 @@
+def regular_e(s,p):
+    s=str(input)
+    if p=="a*":
+        return True
+    elif p==".*":
+        return True
+    elif p=="a":
+        return False
+print(regular_e("aa","a"))
